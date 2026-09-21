@@ -3,3 +3,7 @@ def hi():
 
 def bye():
     print("bye")
+
+
+def yo():
+    print('han')
